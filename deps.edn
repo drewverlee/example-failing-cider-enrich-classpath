@@ -1,1 +1,2 @@
-{:deps {org.apache.kafka/kafka-clients {:mvn/version "2.8.0"}}}
+{:deps {org.apache.kafka/kafka-clients {:mvn/version "2.8.0"}
+        com.opencsv/opencsv {:mvn/version "3.8"}}}
